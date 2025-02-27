@@ -1,4 +1,2 @@
-ghcr.io/martialbe/one-api:latest
-ghcr.io/open-webui/open-webui:main
 youshandefeiyang/allinone:latest
 cloudflare/cloudflared:latest
