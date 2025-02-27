@@ -1,2 +1,2 @@
-youshandefeiyang/allinone:latest
-cloudflare/cloudflared:latest
+youshandefeiyang/allinone
+cloudflare/cloudflared
