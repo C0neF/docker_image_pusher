@@ -3,3 +3,4 @@ cloudflare/cloudflared:latest
 ghcr.io/open-webui/open-webui:main
 ghcr.io/martialbe/one-api:latest
 bradleylzh/deepgemini:latest
+xhofe/alist:latest
